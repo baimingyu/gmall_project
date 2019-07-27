@@ -1,6 +1,6 @@
 package com.atguigu.gmall.user.controller;
 
-import com.atguigu.gmall.Service.UserService;
+import com.atguigu.gmall.service.UserService;
 import com.auguigu.gmall.bean.UserInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
